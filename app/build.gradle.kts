@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.sarthu.retrocam"
-    compileSdk = 35
+    compileSdk = 36
     defaultConfig {
         applicationId = "com.sarthu.retrocam"
         minSdk = 29
